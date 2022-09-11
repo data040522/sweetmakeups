@@ -9,12 +9,14 @@
 
       "ads_list": ["is"]
     },
-    "sweet.beauty.cam.toanhmsg": {
-      "al_re": "9fe0111e502b0ae3",
-      "al_in": "b22debe693ec74d1",
-      "al_ba": "a82feb6e789019c5",
+    "selfie.camera.filter": {
+      "al_re": "",
+      "al_in": "",
+      "al_ba": "",
 
-      "ads_list": ["al"]
+      "is_id": "1669852cd",
+
+      "ads_list": ["is"]
     }
   }
 ]
