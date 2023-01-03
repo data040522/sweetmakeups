@@ -6,13 +6,15 @@
       "ads_list": ["is"]
     },
     "neon.horn.devil": {
-      "am_ba": "",
-      "am_in": "",
-      "am_na": "",
+      "am_ba": "ca-app-pub-3611895700562610/4306310047",
+      "am_in": "ca-app-pub-3611895700562610/2993228370",
+      "am_na": "ca-app-pub-3611895700562610/4145979203",
 
       "is_id": "165919cc5",
 
-      "ads_list": ["is"]
+      "interval": 60000,
+
+      "ads_list": ["am", "is"]
     },
     "selfie.camera.filter": {
       "al_re": "",
