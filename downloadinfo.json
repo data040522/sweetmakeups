@@ -1,9 +1,15 @@
 [
   {
     "hairstyes.color.changer": {
+      "am_ba": "ca-app-pub-5042489769365647/6022599163",
+      "am_in": "ca-app-pub-5042489769365647/5459546289",
+      "am_na": "ca-app-pub-5042489769365647/9003985729",
+
+      "interval": 30000,
+
       "is_id": "1772329ad",
 
-      "ads_list": ["is"]
+      "ads_list": ["am", "is"]
     },
     "neon.horn.devil": {
       "am_ba": "ca-app-pub-3611895700562610/4306310047",
