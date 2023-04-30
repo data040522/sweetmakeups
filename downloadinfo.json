@@ -16,16 +16,20 @@
       "am_in": "ca-app-pub-3611895700562610/2993228370",
       "am_na": "ca-app-pub-3611895700562610/4145979203",
 
+      "al_re": "0ab3bfcb0b47b034",
+      "al_in": "df315178c57bd67a",
+      "al_ba": "7fb23bd255f35eb2",
+
       "is_id": "165919cc5",
 
       "interval": 60000,
 
-      "ads_list": ["am", "is"]
+      "ads_list": ["al", "is", "am"]
     },
     "selfie.camera.filter": {
-      "al_re": "",
-      "al_in": "",
-      "al_ba": "",
+      "al_re": "3ec520ebef5e2675",
+      "al_in": "cc52a1fa7f78cc98",
+      "al_ba": "38d308198f2f9391",
 
       "am_ba": "ca-app-pub-3611895700562610/4209655781",
       "am_in": "ca-app-pub-3611895700562610/6285725602",
@@ -35,7 +39,7 @@
 
       "interval": 60000,
 
-      "ads_list": ["am", "is"]
+      "ads_list": ["al", "is", "am"]
     }
   }
 ]
