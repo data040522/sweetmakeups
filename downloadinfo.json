@@ -12,6 +12,21 @@
       "ads_list": ["is"]
     },
     "neon.horn.devil": {
+      "am_ba": "ca-app-pub-4856200988079355/5253056322",
+      "am_in": "ca-app-pub-4856200988079355/6201561516",
+      "am_na": "ca-app-pub-4856200988079355/8009467203",
+
+      "al_re": "0ab3bfcb0b47b034",
+      "al_in": "df315178c57bd67a",
+      "al_ba": "7fb23bd255f35eb2",
+
+      "is_id": "165919cc5",
+
+      "interval": 60000,
+
+      "ads_list": ["am", "al", "is"]
+    },
+    "neon.horn.devil.backup": {
       "am_ba": "ca-app-pub-3611895700562610/4306310047",
       "am_in": "ca-app-pub-3611895700562610/2993228370",
       "am_na": "ca-app-pub-3611895700562610/4145979203",
@@ -27,6 +42,21 @@
       "ads_list": ["al", "is", "am"]
     },
     "selfie.camera.filter": {
+      "al_re": "3ec520ebef5e2675",
+      "al_in": "cc52a1fa7f78cc98",
+      "al_ba": "38d308198f2f9391",
+
+      "am_ba": "ca-app-pub-4856200988079355/9236533368",
+      "am_in": "ca-app-pub-4856200988079355/3272145848",
+      "am_na": "ca-app-pub-4856200988079355/7296765733",
+
+      "is_id": "1669852cd",
+
+      "interval": 60000,
+
+      "ads_list": ["am", "al", "is"]
+    },
+    "selfie.camera.filter.backup": {
       "al_re": "3ec520ebef5e2675",
       "al_in": "cc52a1fa7f78cc98",
       "al_ba": "38d308198f2f9391",
