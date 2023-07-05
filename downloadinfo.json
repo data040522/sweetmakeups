@@ -13,7 +13,7 @@
     },
     "neon.horn.devil": {
       "am_ba": "",
-      "am_in": "ca-app-pub-5630061860648627/5323759381",
+      "am_in": "",
       "am_na": "",
 
       "al_re": "0ab3bfcb0b47b034",
@@ -24,7 +24,7 @@
 
       "interval": 60000,
 
-      "ads_list": ["am", "al", "is"]
+      "ads_list": ["al", "is"]
     },
     "neon.horn.devil.backup": {
       "am_ba": "ca-app-pub-3611895700562610/4306310047",
