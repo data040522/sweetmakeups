@@ -2,6 +2,17 @@
   {
     "hairstyes.color.changer": {
       "am_ba": "",
+      "am_in": "ca-app-pub-4073890771902191/3832465736",
+      "am_na": "",
+
+      "interval": 45000,
+
+      "is_id": "1772329ad",
+
+      "ads_list": ["am", "is"]
+    },
+    "hairstyes.color.changer.backup": {
+      "am_ba": "",
       "am_in": "",
       "am_na": "",
 
@@ -13,7 +24,7 @@
     },
     "neon.horn.devil": {
       "am_ba": "",
-      "am_in": "",
+      "am_in": "ca-app-pub-4073890771902191/3504059028",
       "am_na": "",
 
       "al_re": "0ab3bfcb0b47b034",
@@ -22,9 +33,9 @@
 
       "is_id": "165919cc5",
 
-      "interval": 60000,
+      "interval": 45000,
 
-      "ads_list": ["al", "is"]
+      "ads_list": ["am", "al", "is"]
     },
     "neon.horn.devil.backup": {
       "am_ba": "ca-app-pub-3611895700562610/4306310047",
@@ -47,14 +58,14 @@
       "al_ba": "38d308198f2f9391",
 
       "am_ba": "",
-      "am_in": "",
+      "am_in": "ca-app-pub-4073890771902191/1098491182",
       "am_na": "",
 
       "is_id": "1669852cd",
 
-      "interval": 60000,
+      "interval": 45000,
 
-      "ads_list": ["al", "is"]
+      "ads_list": ["am", "al", "is"]
     },
     "selfie.camera.filter.backup": {
       "al_re": "3ec520ebef5e2675",
