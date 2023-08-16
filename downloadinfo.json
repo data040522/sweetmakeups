@@ -16,7 +16,7 @@
       "am_in": "",
       "am_na": "",
 
-      "interval": 30000,
+      "interval": 60000,
 
       "is_id": "1772329ad",
 
@@ -35,7 +35,7 @@
 
       "interval": 45000,
 
-      "ads_list": ["am", "al", "is"]
+      "ads_list": ["am", "is"]
     },
     "neon.horn.devil.backup": {
       "am_ba": "ca-app-pub-3611895700562610/4306310047",
@@ -50,7 +50,7 @@
 
       "interval": 60000,
 
-      "ads_list": ["al", "is", "am"]
+      "ads_list": ["is", "am"]
     },
     "selfie.camera.filter": {
       "al_re": "3ec520ebef5e2675",
@@ -65,22 +65,22 @@
 
       "interval": 45000,
 
-      "ads_list": ["am", "al", "is"]
+      "ads_list": ["am", "is"]
     },
     "selfie.camera.filter.backup": {
       "al_re": "3ec520ebef5e2675",
       "al_in": "cc52a1fa7f78cc98",
       "al_ba": "38d308198f2f9391",
 
-      "am_ba": "ca-app-pub-3611895700562610/4209655781",
-      "am_in": "ca-app-pub-3611895700562610/6285725602",
-      "am_na": "ca-app-pub-3611895700562610/5435107545",
+      "am_ba": "",
+      "am_in": "",
+      "am_na": "",
 
       "is_id": "1669852cd",
 
       "interval": 60000,
 
-      "ads_list": ["al", "is", "am"]
+      "ads_list": ["is"]
     }
   }
 ]
