@@ -2,6 +2,17 @@
   {
     "hairstyes.color.changer": {
       "am_ba": "",
+      "am_in": "ca-app-pub-6291858979354382/4479125505",
+      "am_na": "",
+
+      "interval": 45000,
+
+      "is_id": "1772329ad",
+
+      "ads_list": ["am", "is"]
+    },
+    "hairstyes.color.changer.backup": {
+      "am_ba": "",
       "am_in": "",
       "am_na": "",
 
@@ -42,6 +53,21 @@
       "ads_list": ["is", "am"]
     },
     "selfie.camera.filter": {
+      "al_re": "3ec520ebef5e2675",
+      "al_in": "cc52a1fa7f78cc98",
+      "al_ba": "38d308198f2f9391",
+
+      "am_ba": "",
+      "am_in": "ca-app-pub-6291858979354382/4251894796",
+      "am_na": "",
+
+      "is_id": "1669852cd",
+
+      "interval": 45000,
+
+      "ads_list": ["am"]
+    },
+    "selfie.camera.filter.backup": {
       "al_re": "3ec520ebef5e2675",
       "al_in": "cc52a1fa7f78cc98",
       "al_ba": "38d308198f2f9391",
