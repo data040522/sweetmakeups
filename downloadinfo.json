@@ -52,7 +52,7 @@
 
       "ads_list": ["is", "am"]
     },
-    "selfie.camera.filter": {
+    "selfie.camera.filter.new": {
       "al_re": "3ec520ebef5e2675",
       "al_in": "cc52a1fa7f78cc98",
       "al_ba": "38d308198f2f9391",
@@ -67,7 +67,7 @@
 
       "ads_list": ["am"]
     },
-    "selfie.camera.filter.backup": {
+    "selfie.camera.filter": {
       "al_re": "3ec520ebef5e2675",
       "al_in": "cc52a1fa7f78cc98",
       "al_ba": "38d308198f2f9391",
