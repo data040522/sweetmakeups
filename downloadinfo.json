@@ -22,9 +22,9 @@
 
       "ads_list": ["is"]
     },
-    "neon.horn.devil.new": {
+    "neon.horn.devil": {
       "am_ba": "",
-      "am_in": "",
+      "am_in": "ca-app-pub-3946761273676296/4368552087",
       "am_na": "",
 
       "al_re": "0ab3bfcb0b47b034",
@@ -35,9 +35,9 @@
 
       "interval": 45000,
 
-      "ads_list": ["is"]
+      "ads_list": ["am", "is"]
     },
-    "neon.horn.devil": {
+    "neon.horn.devil.bk": {
       "am_ba": "ca-app-pub-3611895700562610/4306310047",
       "am_in": "ca-app-pub-3611895700562610/2993228370",
       "am_na": "ca-app-pub-3611895700562610/4145979203",
