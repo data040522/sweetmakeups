@@ -22,7 +22,7 @@
 
       "ads_list": ["is"]
     },
-    "neon.horn.devil": {
+    "neon.horn.devil.ne": {
       "am_ba": "",
       "am_in": "ca-app-pub-5826564559747837/5917995956",
       "am_na": "",
@@ -37,7 +37,7 @@
 
       "ads_list": ["am", "is"]
     },
-    "neon.horn.devil.bk": {
+    "neon.horn.devil": {
       "am_ba": "ca-app-pub-3611895700562610/4306310047",
       "am_in": "ca-app-pub-3611895700562610/2993228370",
       "am_na": "ca-app-pub-3611895700562610/4145979203",
@@ -50,15 +50,15 @@
 
       "interval": 60000,
 
-      "ads_list": ["is", "am"]
+      "ads_list": ["is", "al"]
     },
-    "selfie.camera.filter": {
+    "selfie.camera.filter.ne": {
       "al_re": "3ec520ebef5e2675",
       "al_in": "cc52a1fa7f78cc98",
       "al_ba": "38d308198f2f9391",
 
       "am_ba": "",
-      "am_in": "ca-app-pub-6362445927755577/3647604572",
+      "am_in": "",
       "am_na": "",
 
       "is_id": "1669852cd",
@@ -67,7 +67,7 @@
 
       "ads_list": ["am", "is"]
     },
-    "selfie.camera.filter.bk": {
+    "selfie.camera.filter": {
       "al_re": "3ec520ebef5e2675",
       "al_in": "cc52a1fa7f78cc98",
       "al_ba": "38d308198f2f9391",
@@ -80,7 +80,7 @@
 
       "interval": 60000,
 
-      "ads_list": ["is"]
+      "ads_list": ["is", "al"]
     }
   }
 ]
