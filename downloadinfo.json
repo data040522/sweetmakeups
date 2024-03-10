@@ -11,6 +11,19 @@
 
       "ads_list": ["is"]
     },
+    "filter.picture.camera.selfie": {
+      "am_ba": "ca-app-pub-7303580732007982/6729581499",
+      "am_in": "ca-app-pub-7303580732007982/5416499820",
+      "am_na": "ca-app-pub-7303580732007982/4103418151",
+
+      "app_id": "ca-app-pub-7303580732007982~9355744833",
+
+      "interval": 45000,
+
+      "is_id": "",
+
+      "ads_list": ["am"]
+    },
     "hairstyes.color.changer.backup": {
       "am_ba": "",
       "am_in": "",
