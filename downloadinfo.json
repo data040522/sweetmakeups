@@ -12,17 +12,21 @@
       "ads_list": ["is"]
     },
     "filter.picture.camera.selfie": {
-      "am_ba": "ca-app-pub-7303580732007982/6729581499",
-      "am_in": "ca-app-pub-7303580732007982/5416499820",
-      "am_na": "ca-app-pub-7303580732007982/4103418151",
+      "am_ba": "",
+      "am_in": "",
+      "am_na": "",
 
-      "app_id": "ca-app-pub-7303580732007982~9355744833",
+      "app_id": "",
 
-      "interval": 45000,
+      "al_na": "c015539c02526398",
+      "al_in": "1c637a55aaecfdbb",
+      "al_ba": "45aa3532ff844b8d",
 
-      "is_id": "",
+      "interval": 60000,
 
-      "ads_list": ["am"]
+      "is_id": "1df3f3045",
+
+      "ads_list": ["al", "is"]
     },
     "hairstyes.color.changer.backup": {
       "am_ba": "",
