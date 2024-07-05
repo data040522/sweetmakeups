@@ -30,16 +30,16 @@
     },
      "filter.picture.camera.selfie.beauty": {
       "am_ba": "",
-      "am_in": "ca-app-pub-5928169493173258/4331239351",
+      "am_in": "",
       "am_na": "",
 
-      "app_id": "ca-app-pub-5928169493173258~7865275781",
+      "app_id": "",
 
       "interval": 60000,
 
       "is_id": "",
 
-      "ads_list": ["am"]
+      "ads_list": ["zz"]
     },
     "hairstyes.color.changer.backup": {
       "am_ba": "",
