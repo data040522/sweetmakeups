@@ -29,17 +29,17 @@
       "ads_list": ["al", "is"]
     },
      "filter.picture.camera.selfie.beauty": {
-      "am_ba": "",
-      "am_in": "",
-      "am_na": "",
+      "am_ba": "ca-app-pub-4226576672608638/3552916673",
+      "am_in": "ca-app-pub-4226576672608638/9528100417",
+      "am_na": "ca-app-pub-4226576672608638/2218803643",
 
-      "app_id": "",
+      "app_id": "ca-app-pub-4226576672608638~1015622109",
 
-      "interval": 60000,
+      "interval": 45000,
 
       "is_id": "",
 
-      "ads_list": ["zz"]
+      "ads_list": ["am"]
     },
     "hairstyes.color.changer.backup": {
       "am_ba": "",
