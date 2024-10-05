@@ -68,9 +68,11 @@
       "ads_list": ["am", "is"]
     },
     "neon.horn.devil": {
-      "am_ba": "",
-      "am_in": "",
-      "am_na": "",
+      "am_ba": "ca-app-pub-4226576672608638/9964031299",
+      "am_in": "ca-app-pub-4226576672608638/1687690683",
+      "am_na": "ca-app-pub-4226576672608638/7397577702",
+
+      "app_id": "ca-app-pub-4226576672608638~8029248908",
 
       "al_re": "0ab3bfcb0b47b034",
       "al_in": "df315178c57bd67a",
@@ -80,7 +82,7 @@
 
       "interval": 60000,
 
-      "ads_list": ["is", "al"]
+      "ads_list": ["am", "is", "al"]
     },
     "selfie.camera.filter.ne": {
       "al_re": "3ec520ebef5e2675",
