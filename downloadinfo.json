@@ -71,16 +71,16 @@
     },
     "neon.horn.devil": {
       "am_ba": "",
-      "am_in": "",
+      "am_in": "ca-app-pub-2238446437692332/6875085481",
       "am_na": "",
 
-      "app_id": "",
+      "app_id": "ca-app-pub-2238446437692332~2949681713",
 
       "is_id": "20b3a756d",
 
-      "interval": 35000,
+      "interval": 45000,
 
-      "ads_list": ["is"]
+      "ads_list": ["am", "is"]
     },
     "neon.horn.devil.bk": {
       "am_ba": "ca-app-pub-4226576672608638/9964031299",
